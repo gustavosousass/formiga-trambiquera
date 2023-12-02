@@ -1,6 +1,6 @@
 <fable>
     <page background="20231202_173555.png">
-        <agent text="Você não trabalha não Cigarra? Tá sempre aqui nessa 
+        <agent text="Você não trabalha não Cigarra? Tá sempre aqui nessa biqueira sem fazer nada!
             
  " color="red" x="20" y="400" font-size="20"/>
         <agent img="pngindio.png" x="400" y="0" width="100" height="100"
