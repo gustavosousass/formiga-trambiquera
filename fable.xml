@@ -7,5 +7,5 @@
             on-touch="_NEXT_PAGE" />
     </page>
      <page background="20231202_173515 (1).png">
-        <page text="você é um desocupado, nâo trabalha nâo?" x="35" y="200" font-size="10" />
+        <page text="você é um desocupado, nâo trabalha nâo?" x="20" y="280" font-size="14" />
          <agent text="Trabalha nada, prefiro ficar aqui de boa" x="20" y="400" font-size="20"/>
