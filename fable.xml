@@ -3,8 +3,8 @@
         <agent text="Você não trabalha não Cigarra? Tá sempre aqui nessa biqueira sem fazer nada!
             
  " color="red" x="20" y="400" font-size="20"/>
-        <agent img="pngindio.png" x="400" y="0" width="100" height="100"
-            on-touch="sing" />
+        <agent img="Sign_2.png" x="400" y="0" width="100" height="100"
+            on-touch="_NEXT_PAGE" />
     </page>
      <page background="20231202_173515 (1).png">
         <agent text="Trabalha nada, prefiro ficar aqui de boa" x="20" y="400" font-size="20"/>
