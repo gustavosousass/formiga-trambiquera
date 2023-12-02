@@ -1,4 +1,4 @@
 <fable>
-    <page background="yanomami.jpg">
+    <page background="">
         <agent text="Era uma vez um indio" color="red" x="20" y="250" font-size="20"/>
         <agent img="pngindio.png" x="400" y="0" width="100" height="100"
