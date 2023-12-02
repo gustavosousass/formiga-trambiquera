@@ -17,4 +17,5 @@
              <agent text="O governo das Cigarras me deu esse cartão Bolsa meu cigarro feliz" x="20" y="400" font-size="20" />
              <agent img="Sign_2.png" x="400" y="0" width="100" height="100"
                  on-touch="_NEXT_PAGE" /> 
-             
+         </page>
+          <page background="20231202_173555.png">
