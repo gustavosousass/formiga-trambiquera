@@ -21,5 +21,6 @@
           <page background="20231202_173555.png">
               <agent text="Sim" color="red" x="350" y="300" font-size="20"/>
               <agent text="Você vive as custas do governo, você gosta disso?" color="red" x="20" y="400" font-size="20"/>
-              
+          </page>
+</fable>
               
