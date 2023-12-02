@@ -6,7 +6,7 @@
         <agent img="Sign_2.png" x="400" y="0" width="100" height="100"
             on-touch="_NEXT_PAGE" />
     </page>
-     <page background="20231202_173515 (1).png">
+    <page background="20231202_173515 (1).png">
       <agent text="você é um desocupado, nâo trabalha nâo?"
        x="20" y="280" font-size="14" />
         <agent text="Trabalha nada, prefiro ficar aqui de boa" x="20" y="400" font- size="20"/>
