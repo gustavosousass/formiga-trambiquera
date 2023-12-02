@@ -12,4 +12,5 @@
         <agent text="Trabalha nada, prefiro ficar aqui de boa" x="20" y="400" font- size="20"/>
           <agent ima="sing_2.png" x="400" y="0" width="100" height="100"
               on-touch="_NEXT_PAGE"
-              
+     <agent>
+         <agent background="2"
