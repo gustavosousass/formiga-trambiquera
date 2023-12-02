@@ -7,4 +7,4 @@
             on-touch="_NEXT_PAGE" />
     </page>
      <page background="20231202_173515 (1).png">
-        <agent text="Trabalha nada, prefiro ficar aqui de boa" x="20" 
+        <agent text="Trabalha nada, prefiro ficar aqui de boa" x="20" y="400" font-size="20"/>
