@@ -1,3 +1,4 @@
 <fable>
     <page background="yanomami.jpg">
-        <agent text="Era uma vez um indio" color="" x="20" y="250"
+        <agent text="Era uma vez um indio" color="red" x="20" y="250" font-size="20"/>
+        <agent im
