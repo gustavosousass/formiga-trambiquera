@@ -19,5 +19,5 @@
                  on-touch="_NEXT_PAGE" /> 
          </page>
           <page background="20231202_173555.png">
-              <agent text="Sim" color="red" x="20" y="400" font-size="20"/>
-              <agent text="Você vive as custas do governo você gosta disso?" x="20" y="280" font-size="20"/>
+              <agent text="Sim" color="red" x="3" y="300" font-size="20"/>
+              <agent text="Você vive as custas do governo você gosta disso?" x="20" y="400" font-size="20"/>
