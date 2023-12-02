@@ -19,4 +19,5 @@
                  on-touch="_NEXT_PAGE" /> 
          </page>
           <page background="20231202_173555.png">
-              <agent text="Não" color="red" x="20" y=""
+              <agent text="Não" color="red" x="20" y="400" font-size="20"/>
+              <agent text=""
