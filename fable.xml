@@ -1,19 +1,19 @@
 <fable>
-    <page background="20231202_173555.png"> s
+    <page background="20231202_173555.png" soundtrack="20 Suspense.mp3">
         <agent text="Você não trabalha não Cigarra? Tá sempre aqui nessa biqueira sem fazer nada!
             
  " color="red" x="20" y="400" font-size="20"/>
         <agent img="Sign_2.png" x="400" y="0" width="100" height="100"
             on-touch="_NEXT_PAGE" />
     </page>
-    <page background="20231202_173515 (1).png">
+    <page background="20231202_173515 (1).png" soundtrack="20 Suspense.mp3">
       <agent text="você é um desocupado, nâo trabalha nâo?" color="red"
        x="20" y="280" font-size="14" />
         <agent text="Trabalha nada, prefiro ficar aqui de boa" color="red" x="140" y="400" font- size="50" />
           <agent img="Sign_2.png" x="400" y="0" width="100" height="100"
               on-touch="_NEXT_PAGE" />
      </page>
-         <page background="20231202_173632 (1).png">
+         <page background="20231202_173632 (1).png" soundtrack="s"
              <agent text="O governo das Cigarras me deu esse cartão Bolsa meu cigarro feliz" color="red" x="20" y="400" font-size="20" />
              <agent img="Sign_2.png" x="400" y="0" width="100" height="100"
                  on-touch="_NEXT_PAGE" /> 
